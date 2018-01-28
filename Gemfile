@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'awesome_print'
+gem 'bundler'
+gem 'capybara-webkit'
+gem 'capybara'
+gem 'chromedriver-helper'
+gem 'jquery-rails'
+gem 'nokogiri'
+gem 'pry-byebug'
+gem 'rspec'
+gem 'selenium-webdriver'
